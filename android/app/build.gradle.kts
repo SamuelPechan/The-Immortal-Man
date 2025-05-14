@@ -15,7 +15,7 @@ val keystoreProperties = Properties().apply {
 android {
     namespace = "com.SamuelPechan.the_immortal_man"
     compileSdk = 35
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -30,8 +30,8 @@ android {
         applicationId = "com.SamuelPechan.the_immortal_man"
         minSdk = 23
         targetSdk = 35
-        versionCode = flutter.versionCode
-        versionName = flutter.versionName
+        versionCode = 2
+        versionName = "1.0.1"
     }
 
     signingConfigs {
