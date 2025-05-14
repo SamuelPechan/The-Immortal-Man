@@ -1,16 +1,29 @@
-# fixed_project
+💪 The Immortal Man
+The Immortal Man is the ultimate training ground for men who refuse to be average. Through fire, challenge, and brotherhood, we forge men of strength, honor, and purpose—men who lead, protect, and build legacies that stand the test of time.
 
-A new Flutter project.
+🚀 Features
+🧑‍💼 User Authentication
+Secure sign-up and login with email and password using Firebase Authentication.
 
-## Getting Started
+👤 Custom Profiles
+Users can customize their profile with:
+- Name
+- Profile Picture
+- Email
+- Social Links (Facebook, Instagram, etc.)
 
-This project is a starting point for a Flutter application.
+💬 Brotherhood Forum
+A central place for members to:
+- Post questions, ideas, or experiences
+- Comment on others’ posts
+- Share images and insights
 
-A few resources to get you started if this is your first Flutter project:
+📦 Coming Soon
+- Fitness and nutrition tracking
+- In-person event integration
+- Training modules and more
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+- Flutter – Frontend
+- Firebase – Authentication, Firestore, and Storage
+- Dart – App logic
