@@ -43,3 +43,31 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter metadata
+.metadata
+
+# IntelliJ/VS Code settings (optional, remove comment if you want to ignore)
+.vscode/
+
+# Sensitive files (keystore credentials)
+key.properties
+keystore/
+
+# Windows, Linux, macOS build outputs (if building for desktop)
+windows/
+linux/
+macos/
+
+# Web build output (if building for web)
+web/
+
+# Coverage files (if generating test coverage)
+coverage/
+
+# Crashlytics/Firebase (if using)
+crashlytics-build.properties
+
+# General lock file (ignore for packages, optional for apps)
+pubspec.lock
+
